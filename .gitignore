@@ -1,3 +1,4 @@
 images
 gifs
 *.zip
+__pycache__/*
