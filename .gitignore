@@ -1,4 +1,4 @@
 images
 gifs
-*.zip
 __pycache__/*
+logs/*
