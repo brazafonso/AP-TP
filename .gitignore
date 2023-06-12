@@ -1,5 +1,4 @@
 images
-gifs
 __pycache__/*
 logs/*
 models/__pycache__/*
